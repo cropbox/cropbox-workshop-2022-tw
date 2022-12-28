@@ -1,4 +1,4 @@
-﻿year,jday,rad (W/m^2),Tavg (°C),Tmax (°C),Tmin (°C),rainfall (mm),date (:Date),GDD (K),cGDD (K)
+﻿year,jday,rad (W/m^2),Tavg (°C),Tmax (°C),Tmin (°C),rainfall (mm),date (:Date),GDD (K*d),cGDD (K*d)
 2002,135,295.8,14.9,22.1,8.6,0,2002-05-15,6.9,13.8
 2002,136,297.9,18,27.7,4.9,0,2002-05-16,10,23.8
 2002,137,224.2,21.3,27.3,14.3,3,2002-05-17,13.3,37.1
